@@ -40,7 +40,7 @@ const workflow = [
   ['Network sources', 'success', '01'], ['Monitoring agent', 'success', '02'], ['Detection agent', 'success', '03'], ['Suspicious?', 'success', '04'],
   ['Diagnosis', 'success', '05'], ['Reasoning', 'running', '06'], ['Knowledge retrieval', 'running', '07'], ['Triage', 'waiting', '08'],
   ['Response planning', 'waiting', '09'], ['Human approval', 'waiting', '10'], ['Execution', 'pending', '11'], ['Verification', 'pending', '12'],
-  ['Success?', 'pending', '13'], ['Adapt & escalate', 'pending', '14'], ['Learning', 'pending', '15']
+  ['Success?', 'pending', '13'], ['Adapt & escalate', 'pending', '14'], ['Learning & Storage', 'pending', '15']
 ];
 
 function App() {
