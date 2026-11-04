@@ -10,6 +10,7 @@ import {
 } from 'lucide-react';
 import './styles.css';
 import './subpages.css';
+import './workflow.css';
 
 const navGroups = [
   { label: 'Operations', items: [
